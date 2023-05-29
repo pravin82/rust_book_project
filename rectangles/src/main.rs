@@ -7,6 +7,7 @@ fn main() {
       width: 10,
       height: 40,
    };
+   
    let rect3 = Rectangle {
       width: 60,
       height: 45,
